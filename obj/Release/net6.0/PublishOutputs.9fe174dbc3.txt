@@ -1,0 +1,7 @@
+D:\Phase-4 Mphasis\27Feb DoubtClearSession\MVCwithJenkins27feb\MVCwithJenkins27feb\obj\Release\net6.0\PubTmp\Out\MVCwithJenkins27feb.exe
+D:\Phase-4 Mphasis\27Feb DoubtClearSession\MVCwithJenkins27feb\MVCwithJenkins27feb\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\Phase-4 Mphasis\27Feb DoubtClearSession\MVCwithJenkins27feb\MVCwithJenkins27feb\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\Phase-4 Mphasis\27Feb DoubtClearSession\MVCwithJenkins27feb\MVCwithJenkins27feb\obj\Release\net6.0\PubTmp\Out\MVCwithJenkins27feb.dll
+D:\Phase-4 Mphasis\27Feb DoubtClearSession\MVCwithJenkins27feb\MVCwithJenkins27feb\obj\Release\net6.0\PubTmp\Out\MVCwithJenkins27feb.deps.json
+D:\Phase-4 Mphasis\27Feb DoubtClearSession\MVCwithJenkins27feb\MVCwithJenkins27feb\obj\Release\net6.0\PubTmp\Out\MVCwithJenkins27feb.runtimeconfig.json
+D:\Phase-4 Mphasis\27Feb DoubtClearSession\MVCwithJenkins27feb\MVCwithJenkins27feb\obj\Release\net6.0\PubTmp\Out\MVCwithJenkins27feb.pdb
